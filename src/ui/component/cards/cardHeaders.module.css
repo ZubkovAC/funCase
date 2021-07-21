@@ -1,0 +1,41 @@
+.cards {
+    margin: 15px;
+    height: 300px;
+}
+.img {
+    border-radius: 50%;
+    width: 132px;
+    height: 132px;
+    background-size: cover;
+}
+.test{
+    position: relative;
+    z-index: 2;
+}
+.button{
+    margin-left: 10px;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    background-color: rgba( 0,0,0,0);
+    color:#EA7C69;
+    border:2px solid #EA7C69;
+    box-shadow: 0 0 5px 0 #EA7C69;
+}
+.button:hover{
+
+    border:3px solid #EA7C69;
+}
+.button:active{
+    border:4px solid #EA7C69;
+    font-weight: 700;
+}
+.cardInvisible {
+    position: relative;
+    top: -250px;
+    background-color: #1f1d2b;
+    border-radius: 16px;
+    padding: 15px;
+    height: 226px;
+    width: 192px;
+}

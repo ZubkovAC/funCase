@@ -1,0 +1,19 @@
+.soups{
+    margin-left: 200px;
+    background-color: #252837;
+    min-height: 100%;
+    width: 100%;
+    padding: 25px 15px 25px 25px;
+}
+.containerFood{
+    display: flex;
+    flex-wrap: wrap;
+}
+.strict{
+    color: orange;
+    font-size:20px;
+    font-weight: 600;
+    margin:40px;
+    display: inline-block;
+
+}

@@ -1,0 +1,10 @@
+.labTabs{
+    display: flex;
+    justify-content: space-between;
+}
+.labTabsContainer{
+    display: flex;
+}
+.menu{
+    padding: 0 15px;
+}
